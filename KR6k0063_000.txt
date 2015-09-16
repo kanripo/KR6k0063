@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 沙彌尼戒經
+#+DATE: 2015-08-30 20:43:34.770070
+#+PROPERTY: JUAN 0
