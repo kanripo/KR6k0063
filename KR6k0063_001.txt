@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:43:34.563722
+#+DATE: 2015-08-30 20:43:35.685075
 #+TITLE: 沙彌尼戒經
 #+PROPERTY: CBETA_ID T24n1474
 #+PROPERTY: ID KR6k0063
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1474
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6k0063_T_000-0937a>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6k0063_T_001-0937a> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1474¶
-
- 《沙彌尼戒經》¶
+No. 1474¶
+《沙彌尼戒經》¶
 ¶
 在後漢錄¶
 
@@ -68,7 +67,7 @@ No.1474¶
 
 沙彌尼戒。不得坐金銀高床綺繡錦被寶綩¶
 綖。不得念之。不得教求索好床榻席五色畫¶
-扇上好㲖拂。不得著臂釧指鐶。直信戒慚愧¶
+扇上好[肖*毛]拂。不得著臂釧指鐶。直信戒慚愧¶
 施。博聞智慧一心精專。常求三昧以為床榻。¶
 心不動搖。眾慧自然以為坐具。七覺不轉志
 <pb:KR6k0063_T_001-0937c>¶
